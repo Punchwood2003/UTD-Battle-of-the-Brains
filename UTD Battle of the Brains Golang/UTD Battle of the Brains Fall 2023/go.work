@@ -1,0 +1,13 @@
+go 1.20
+
+use (
+	"./Elevator Pitch/Solution"
+	"./Elevator Pitch/Test Case Creator"
+	"./Bishop Attack/Solution"
+	"./Bishop Attack/Test Case Creator"
+	"./Integer Long Slide/Solution"
+	"./Integer Long Slide/Test Case Creator"
+	"./Most Average Musician/Solution"
+	"./Most Average Musician/Test Case Creator"
+	"./Warping Time/Solution"
+)

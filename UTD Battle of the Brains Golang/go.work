@@ -1,0 +1,13 @@
+go 1.20
+
+use (
+	"./UTD Battle of the Brains Fall 2023/Elevator Pitch/Solution"
+	"./UTD Battle of the Brains Fall 2023/Elevator Pitch/Test Case Creator"
+	"./UTD Battle of the Brains Fall 2023/Bishop Attack/Solution"
+	"./UTD Battle of the Brains Fall 2023/Bishop Attack/Test Case Creator"
+	"./UTD Battle of the Brains Fall 2023/Integer Long Slide/Solution"
+	"./UTD Battle of the Brains Fall 2023/Integer Long Slide/Test Case Creator"
+	"./UTD Battle of the Brains Fall 2023/Most Average Musician/Solution"
+	"./UTD Battle of the Brains Fall 2023/Most Average Musician/Test Case Creator"
+	"./UTD Battle of the Brains Fall 2023/Warping Time/Solution"
+)
