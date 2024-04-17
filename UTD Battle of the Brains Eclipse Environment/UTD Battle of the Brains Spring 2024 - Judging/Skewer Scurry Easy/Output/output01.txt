@@ -1,0 +1,8 @@
+Testcase 1 NORTH: 4 6 8 10 12 13 14
+Testcase 1 EAST : 1 8
+Testcase 1 SOUTH: 1 5
+Testcase 1 WEST : 1 10
+Testcase 2 NORTH: 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Testcase 2 EAST : 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Testcase 2 SOUTH: 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Testcase 2 WEST : 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20

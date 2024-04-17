@@ -1,1 +1,7 @@
 /.metadata/
+
+# Temporary directories to block:
+/UTD Battle of the Brains Fall 2024 - Judging/*
+
+# Permanent directories to block:
+/Brainstorming/*
